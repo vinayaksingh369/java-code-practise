@@ -14,8 +14,8 @@ public class Main {
         String res = "";
         int len = name.length();
         for (int i = 0; i<len; i++ ) {
-            String ch = name.charAt(i)
-            if ()
+//            String ch = name.charAt(i)
+//            if ()
         }
 
         System.out.println(res);
